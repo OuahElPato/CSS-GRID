@@ -49,15 +49,6 @@ hier : [CSS Grid Garden](https://cssgridgarden.com/#fr)
 
 Chat GPT ne sera pas encouragée ni tolérée dans le cadre de cette évaluation.
 
-### Notations 📝
-
-| Titre                                     | Description          | Note                 |
-|-------------------------------------------|----------------------|----------------------|
-| En-tête 1                                 | En-tête 2            | En-tête 3            |
-| En-tête 1                                 | En-tête 2            | En-tête 3            |
-| En-tête 1                                 | En-tête 2            | En-tête 3            |
-|                                           | Total /20            | À définir            |
-
 ### Soumission 💻
 
 Une fois que vous avez terminé votre intégration, assurez-vous de la soumettre sur l'espace Teams mis à votre
